@@ -1,0 +1,9 @@
+  =>  Template Name    : Gomba_Youth_Initiative
+
+  =>  Template Link    : https://htmlcodex.com/gomba_youth_initiative
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+  =>  Author Website   : https://htmlcodex.com
